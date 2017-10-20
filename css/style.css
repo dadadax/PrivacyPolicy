@@ -1,0 +1,25 @@
+body{
+    width:950px;
+    margin-left:auto;
+    margin-right:auto;
+}
+header{
+}
+h1#jp-header {
+    border-bottom: double;
+}
+div#jp-text{
+    border-bottom:outset;
+}
+div#jp-data{
+    text-align:right;
+}
+h1#en-header{
+    border-bottom:double;
+}
+div#en-text{
+    border-bottom:outset;
+}
+div#en-data{
+    text-align:right;
+}
